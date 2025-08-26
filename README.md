@@ -335,7 +335,7 @@ Project Link: [https://github.com/madhumita77/multisite_product_webscrapping](ht
 
 <div style="text-align: center">⁂</div>
 
-[^1]: README.md.txt
+[^1]: README.md
 
 [^2]: Multisite_Product_Scraper.ipynb
 
