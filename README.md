@@ -336,7 +336,7 @@ Project Link: [https://github.com/madhumita77/multisite_product_webscrapping](ht
 ***
 
 💡 *This project showcases practical web scraping automation skills with enterprise-level error handling, data persistence, and analytical capabilities suitable for market research and competitive analysis.*
-<span style="display:none">[^1][^2][^3][^4][^5]</span>
+<span style="display:none">[^1][^2]</span>
 
 <div style="text-align: center">⁂</div>
 
@@ -344,9 +344,4 @@ Project Link: [https://github.com/madhumita77/multisite_product_webscrapping](ht
 
 [^2]: Multisite_Product_Scraper.ipynb
 
-[^3]: https://img.shields.io/badge/python-3.8+-blue.svg
-
-[^4]: https://img.shields.io/badge/selenium-automation-green.svg
-
-[^5]: https://img.shields.io/badge/status-completed-success.svg
 
