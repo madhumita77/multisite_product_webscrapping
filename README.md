@@ -1,5 +1,10 @@
 # 🛒 Multisite Product Scraper \& Price Comparator
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Selenium](https://img.shields.io/badge/selenium-automation-green.svg)
+![Status](https://img.shields.io/badge/status-completed-success.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## 📌 Overview
 
 **Multisite Product Scraper** is a comprehensive Selenium-based automation project that scrapes product information from **Amazon** and **Flipkart**, performs intelligent price comparisons, and provides detailed analytics. Built as a production-ready tool with robust error handling, SQLite persistence, and an interactive analysis menu.
